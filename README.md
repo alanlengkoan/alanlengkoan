@@ -3,7 +3,11 @@
 <p>
     <b>About Me :</b>
     <br>
-    <p>Hello, perkenalkan nama saya Alan Saputra Lengkoan bisa dipanggil Alan, Botak, Bagong, saya adalah seorang Freelance Web Developer yang tinggal di Makassar, saya alumni di salah satu Perguruan Tinggi Swasta yaitu STMIK Handayani Makassar,untuk mengisi waktu luang biasanya saya membaca artikel tentang teknologi terbaru, latihan tutorial bahasa pemrograman dan nonton anime, saya orangnya suka tantangan, pemecahan masalah, teliti, fokus dan konsisten dalam mengerjakan pekerjan yang sedang saya kerjakan. <strong>Terima Kasih !</strong></p>
+    <p>Hello, introduce my name Alan Saputra Lengkoan can be called Alan, Botak, Bagong, I am a Freelance Web Developer
+        who lives in Makassar, I am an alumni of one of the Private Universities namely STMIK Handayani Makassar, to
+        fill my free time I usually read articles about technology the latest, training in programming languages ​​and
+        watching anime, I am a person who likes challenges, problem solving, thorough, focused and consistent in doing
+        the work that I'm working on.<strong>Thank you !</strong></p>
 </p>
 
 <hr>
@@ -30,5 +34,19 @@
         <li>
             <a href="https://alanlengkoan.netlify.app/">My Website</a>
         </li>
+    </ul>
+</p>
+
+<hr>
+
+<p>
+    <b>My Hobby :</b>
+    <br>
+    <ul style="list-style: none; padding: 0;">
+        <li>Basketball Ball</li>
+        <li>Mountain Climbing</li>
+        <li>Fishing</li>
+        <li>Playing Games</li>
+        <li>Watching Anime</li>
     </ul>
 </p>
