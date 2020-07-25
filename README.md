@@ -42,7 +42,7 @@
 <p>
     <b>My Hobby :</b>
     <br>
-    <ul style="list-style: none; padding: 0;">
+    <ul>
         <li>Basketball Ball</li>
         <li>Mountain Climbing</li>
         <li>Fishing</li>
