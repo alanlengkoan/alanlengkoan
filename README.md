@@ -40,10 +40,10 @@
 
 <b>My Statistics :</b>
 
-<img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=grey"/>
 <a href="https://github.com/alanlengkoan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark"/>
 </a>
-<a href="https://github.com/alanlengkoan"">
-    <img align=" center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+<a href="https://github.com/alanlengkoan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark"/>
 </a>
