@@ -56,7 +56,9 @@
 <b>Statistics :</b>
 
 <p>
+   
     ![](https://komarev.com/ghpvc/?username=alanlengkoan&color=grey)
+
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark)
