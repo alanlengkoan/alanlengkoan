@@ -41,5 +41,9 @@
 <b>My Statistics :</b>
 
 <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=grey" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+<a href="https://github.com/alanlengkoan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/alanlengkoan"">
+    <img align=" center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+</a>
