@@ -50,3 +50,5 @@
         <li>Watching Anime</li>
     </ul>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&theme=dark" />
