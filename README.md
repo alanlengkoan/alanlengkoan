@@ -53,4 +53,5 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&theme=light" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact)](https://github.com/alanlengkoan/github-readme-stats)
