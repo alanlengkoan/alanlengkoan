@@ -51,4 +51,7 @@
     </ul>
 </p>
 
+<hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/api?username=alanlengkoan&show_icons=true&theme=dark&include_all_commits=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&theme=dark" />
