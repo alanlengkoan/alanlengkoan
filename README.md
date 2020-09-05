@@ -53,5 +53,5 @@
 
 <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact)](https://github.com/alanlengkoan/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark)](https://github.com/alanlengkoan/github-readme-stats)
