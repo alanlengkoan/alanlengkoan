@@ -28,11 +28,11 @@
     <b>My Hobby :</b>
     <br>
     <ul>
-        <li>Basketball Ball</li>
-        <li>Mountain Climbing</li>
-        <li>Fishing</li>
-        <li>Playing Games</li>
-        <li>Watching Anime</li>
+        <li>&#x26F9;&#x1F3FB;</li>
+        <li>&#x1F3D4; Climbing</li>
+        <li>&#x1F41F;</li>
+        <li>&#x1F3AE;</li>
+        <li>&#x1F4FA; Anime</li>
     </ul>
 </p>
 
