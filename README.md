@@ -57,4 +57,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
 </a>
 <!--START_SECTION:waka-->
+```text
+PHP             31 hrs 11 mins  █████████████████████████   99.48 % 
+HTML            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+CSS             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+```
 <!--END_SECTION:waka-->
