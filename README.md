@@ -56,3 +56,5 @@
 <a href="https://github.com/alanlengkoan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
 </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
