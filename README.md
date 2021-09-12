@@ -51,14 +51,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=grey" />
 
-<a href="https://github.com/alanlengkoan">
-    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/alanlengkoan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
-</a>
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -119,3 +111,11 @@ Dart                     3 repos             █░░░░░░░░░░�
 
  Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/alanlengkoan">
+    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/alanlengkoan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+</a>
