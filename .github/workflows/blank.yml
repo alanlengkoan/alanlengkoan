@@ -12,5 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: alanlengkoan/alanlengkoan@master
+      - uses: actions/checkout@v1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
