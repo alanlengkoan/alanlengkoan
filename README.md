@@ -9,18 +9,12 @@
         <br>
         Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my repo so I can be excited to share a code that can help you. <strong>Thank you very much!</strong> &#128522;&nbsp;&#128522;
     </p>
-    <ul>
-        <li>
-            <a href="https://trakteer.id/alanlengkoan">
-                <img src="https://img.shields.io/badge/trakteer-%23E4405F.svg?&style=for-the-badge" alt="Trakteer">
-            </a>
-        </li>
-        <li>
-            <a href="https://saweria.co/alanlengkoan">
-                <img src="https://img.shields.io/badge/saweria-%231DA1F2.svg?&style=for-the-badge" alt="Saweria">
-            </a>
-        </li>
-    </ul>
+    <a href="https://trakteer.id/alanlengkoan">
+        <img src="https://img.shields.io/badge/trakteer-%23E4405F.svg?&style=for-the-badge" alt="Trakteer">
+    </a>
+    <a href="https://saweria.co/alanlengkoan">
+        <img src="https://img.shields.io/badge/saweria-%231DA1F2.svg?&style=for-the-badge" alt="Saweria">
+    </a>
 </p>
 
 <hr>
