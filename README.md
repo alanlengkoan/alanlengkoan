@@ -7,8 +7,20 @@
     <p>
         Hello World !!! My name is Alan Saputra Lengkoan, can be called Alan, Botak or Bagong. I am a Freelance Web Developer who lives in Makassar. I graduated from one of the private universities (STMIK Handayani Makassar). I usually spend my leisure time by reading the latest technology's articles, language tutorial exercise programming and watching anime. I am a guy who is open to any challenges, problem solving, stay focused and do the tasks consistently.
         <br>
-        Lastly, don't forget to <a href="https://trakteer.id/alanlengkoan">support and treat</a> me with a coffee cup, if you find what you are looking for in my repo so I can be excited to share a code that can help you. <strong>Thank you very much!</strong> &#128522;&nbsp;&#128522;
+        Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my repo so I can be excited to share a code that can help you. <strong>Thank you very much!</strong> &#128522;&nbsp;&#128522;
     </p>
+    <ul>
+        <li>
+            <a href="https://trakteer.id/alanlengkoan">
+                <img src="https://img.shields.io/badge/trakteer-%23E4405F.svg?&style=for-the-badge" alt="Trakteer">
+            </a>
+        </li>
+        <li>
+            <a href="https://saweria.co/alanlengkoan">
+                <img src="https://img.shields.io/badge/saweria-%231DA1F2.svg?&style=for-the-badge" alt="Saweria">
+            </a>
+        </li>
+    </ul>
 </p>
 
 <hr>
