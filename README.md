@@ -74,7 +74,16 @@
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Week: 14 January, 2022 - 20 January, 2022
+
+PHP             8 hrs 12 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.12 % 
+Apache Config   25 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.71 % 
+HTML            13 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.46 % 
+CSS             1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
+Other           1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.26 % 
+```
+<!--END_SECTION:waka-->
 
   <a href="https://github.com/alanlengkoan">
       <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
