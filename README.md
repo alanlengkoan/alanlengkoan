@@ -21,11 +21,11 @@
       my repo so I can be excited to share a code that can help you. <strong>Thank you very much!
       </strong>&#128522;&nbsp;&#128522;
   </p>
-
   <hr>
-
   <b>Language, Tools and Platforms</b>
+  
   <br>
+
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript">
@@ -70,9 +70,7 @@
       alt="JQuery">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="JQuery">
-
   <hr>
-
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
 
   <!--START_SECTION:waka-->
