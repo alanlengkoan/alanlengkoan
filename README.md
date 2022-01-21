@@ -1,12 +1,8 @@
-  Hello world, I'm Alan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-      width="30px">
-
-  <br>
+  <h3>Hello world, I'm Alan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+          width="30px"></h3>
 
   <a href="https://alanlengkoan.com">alanlengkoan.com</a>
 
-  <hr>
-  
   <b>About Me</b>
   <br>
   <ul>
@@ -25,7 +21,7 @@
       my repo so I can be excited to share a code that can help you. <strong>Thank you very much!
       </strong>&#128522;&nbsp;&#128522;
   </p>
-  
+
   <hr>
 
   <b>Language, Tools and Platforms</b>
