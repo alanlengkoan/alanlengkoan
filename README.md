@@ -1,12 +1,10 @@
-  <h3>Hello world, I'm Alan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+  <h3>Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
           width="30px"></h3>
-
-  <a href="https://alanlengkoan.com">alanlengkoan.com</a>
 
   <b>About Me</b>
   <br>
   <ul>
-      <li>Moslty using <b>PHP</b> and <b>JavaScript</b> in Web Development.</li>
+      <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
       <li>Currently learning <b><a href="https://nodejs.org/">Node js</a></b> and <b><a
                   href="https://expressjs.com/">Express js</a></b>.</li>
       <li>Interested in learning <b><a href="https://www.python.org/">Python</a></b> and <b><a
