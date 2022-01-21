@@ -1,11 +1,8 @@
-<h2 align="center">Hello world, I'm Alan.<img
-        src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-
-<p align="center">
+<h2 align="center">
+    Hello world, I'm Alan.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    <br>
     <a href="https://alanlengkoan.com">alanlengkoan.com</a>
-</p>
-
-<hr>
+</h2>
 
 <b>About Me</b>
 <br>
