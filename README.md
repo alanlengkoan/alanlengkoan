@@ -21,11 +21,11 @@
       my repo so I can be excited to share a code that can help you. <strong>Thank you very much!
       </strong>&#128522;&nbsp;&#128522;
   </p>
-  <hr>
-  <b>Language, Tools and Platforms</b>
-  
-  <br>
 
+  <hr>
+
+  <b>Language, Tools and Platforms</b>
+  <br>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript">
@@ -70,20 +70,13 @@
       alt="JQuery">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="JQuery">
+
   <hr>
+
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
 
   <!--START_SECTION:waka-->
-```text
-Week: 14 January, 2022 - 20 January, 2022
-
-PHP             8 hrs 12 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.12 % 
-Apache Config   25 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.71 % 
-HTML            13 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.46 % 
-CSS             1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
-Other           1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.26 % 
-```
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <a href="https://github.com/alanlengkoan">
       <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
