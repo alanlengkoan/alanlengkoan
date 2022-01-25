@@ -1,10 +1,11 @@
-  <h3>Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-          width="30px"></h3>
+  <h3>Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img
+          src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
   <b>About Me</b>
   <br>
   <ul>
-      <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
+      <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a
+                  href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
       <li>Currently learning <b><a href="https://nodejs.org/">Node js</a></b> and <b><a
                   href="https://expressjs.com/">Express js</a></b>.</li>
       <li>Interested in learning <b><a href="https://www.python.org/">Python</a></b> and <b><a
@@ -72,18 +73,11 @@
   <hr>
 
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
+  <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg"
+      alt="Total time coded since Aug 20 2019" />
 
   <!--START_SECTION:waka-->
-```text
-Week: 17 January, 2022 - 23 January, 2022
-
-PHP             5 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.99 % 
-Markdown        1 hr 51 mins    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.27 % 
-Apache Config   25 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.27 % 
-HTML            13 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.74 % 
-CSS             1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 % 
-```
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <a href="https://github.com/alanlengkoan">
       <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
