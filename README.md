@@ -1,8 +1,7 @@
-  <h3>Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img
-          src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+  ## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img
+      src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  <b>About Me</b>
-  <br>
+  <h3><b>About Me</b></h3>
   <ul>
       <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a
                   href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
@@ -14,17 +13,10 @@
                   href="https://flutter.dev/">Flutter</a></b> for Mobile App Development.</li>
       <li>Basket Ball, Anime, Manga, Climbing.</li>
   </ul>
-  <p>
-      Lastly, don't forget to <a href="https://trakteer.id/alanlengkoan">support</a> and <a
-          href="https://saweria.co/alanlengkoan">treat me</a> with a coffee cup, if you find what you are looking for in
-      my repo so I can be excited to share a code that can help you. <strong>Thank you very much!
-      </strong>&#128522;&nbsp;&#128522;
-  </p>
 
   <hr>
 
-  <b>Language, Tools and Platforms</b>
-  <br>
+  <h3><b>Language, Tools and Platforms</b></h3>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript">
@@ -74,24 +66,28 @@
 
   <hr>
 
+  <h3><b>Support Me</b></h3>
+  <p>
+      Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my repo so
+      I can be excited to share a code that can help you. <strong>Thank you very
+          much!&nbsp;</strong>&#128522;&nbsp;&#128522;
+  </p>
+  <a href="https://saweria.co/alanlengkoan">
+      <img src="https://daveyscans.com/xenginee/2021/06/WP_Saweria-2.png" width="150" />
+  </a>
+  <a href="https://trakteer.id/alanlengkoan">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" />
+  </a>
+
+  <hr>
+
+  <h3><b>Statistic</b></h3>
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
   <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg"
       alt="Total time coded since Aug 20 2019" />
 
   <!--START_SECTION:waka-->
-```text
-Week: 28 January, 2022 - 03 February, 2022
+  <!--END_SECTION:waka-->
 
-PHP        4 hrs 4 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.52 % 
-Markdown   3 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.43 % 
-```
-<!--END_SECTION:waka-->
-
-  <a href="https://github.com/alanlengkoan">
-      <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-  </a>
-
-  <a href="https://github.com/alanlengkoan">
-      <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
