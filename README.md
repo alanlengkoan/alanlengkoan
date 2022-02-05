@@ -72,21 +72,6 @@
 
   <hr>
 
-  <h3><b>Support Me</b></h3>
-  <p>
-      Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my repo so
-      I can be excited to share a code that can help you. <strong>Thank you very
-          much!&nbsp;</strong>&#128522;&nbsp;&#128522;
-  </p>
-  <a href="https://saweria.co/alanlengkoan">
-      <img src="https://daveyscans.com/xenginee/2021/06/WP_Saweria-2.png" width="150" />
-  </a>
-  <a href="https://trakteer.id/alanlengkoan">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" />
-  </a>
-
-  <hr>
-
   <h3><b>Statistic</b></h3>
   <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
   <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
@@ -98,3 +83,16 @@
       <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
   </p>
+
+  <hr>
+
+  <h3><b>Support Me</b></h3>
+  <p>
+      Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my repo so I can be excited to share a code that can help you. <strong>Thank you very much!&nbsp;</strong>&#128522;&nbsp;&#128522;
+  </p>
+  <a href="https://saweria.co/alanlengkoan">
+      <img src="https://daveyscans.com/xenginee/2021/06/WP_Saweria-2.png" width="150" />
+  </a>
+  <a href="https://trakteer.id/alanlengkoan">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" />
+  </a>
