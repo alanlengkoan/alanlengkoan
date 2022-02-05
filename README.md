@@ -17,7 +17,7 @@
   <hr>
 
   <h3><b>Language, Tools and Platforms</b></h3>
-  
+  <br>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
       alt="JavaScript">
