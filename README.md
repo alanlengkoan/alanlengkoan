@@ -81,11 +81,35 @@
 
 <hr>
 
+<<<<<<< HEAD
 <details>
     <summary><b>Statistic</b></summary>
     <br>
     <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
     <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
+=======
+  <details>
+      <summary><b>Statistic</b></summary>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
+      <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
+      <!--START_SECTION:waka-->
+```text
+From: 13 February, 2022 - To: 20 February, 2022
+
+PHP      12 hrs 45 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.36 % 
+HTML     36 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 % 
+Docker   33 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.97 % 
+Other    1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.17 % 
+```
+<!--END_SECTION:waka-->
+      <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+          <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+      </p>
+  </details>
+>>>>>>> bc631abb5b88e480af2ec51dc5180ed21a8ac5ab
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
