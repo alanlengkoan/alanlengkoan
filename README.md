@@ -84,18 +84,6 @@
     <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```text
-From: 07 April 2022 - To: 14 April 2022
-
-PHP              15 hrs 7 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.41 %
-Blade Template   4 hrs 6 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.94 %
-Dart             2 hrs 47 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.55 %
-JSON             38 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.65 %
-SQL              36 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.49 %
-JavaScript       25 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.76 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -113,9 +101,9 @@ JavaScript       25 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
             much!&nbsp;</strong>&#128522;&nbsp;&#128522;
     </p>
     <a href="https://saweria.co/alanlengkoan">
-        <img src="https://daveyscans.com/xenginee/2021/06/WP_Saweria-2.png" width="150" />
+        <img src="./img/saweria.png" width="150" />
     </a>
     <a href="https://trakteer.id/alanlengkoan">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" />
+        <img src="./img/trakteer.png" width="120" />
     </a>
 </details>
