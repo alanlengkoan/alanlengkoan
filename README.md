@@ -1,4 +1,4 @@
-## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.
 
 <details>
     <summary><b>About Me</b></summary>
