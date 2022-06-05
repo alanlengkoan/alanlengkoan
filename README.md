@@ -1,4 +1,4 @@
-## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.
+## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>. :wave:
 
 <details>
     <summary><b>About Me</b></summary>
