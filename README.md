@@ -1,4 +1,4 @@
-## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 30px;">
 
 <details>
     <summary><b>About Me</b></summary>
@@ -84,15 +84,6 @@
     <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```text
-From: 28 May 2022 - To: 04 June 2022
-
-Bash            36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.94 %
-PHP             17 mins         ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.17 %
-Other           6 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.51 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
