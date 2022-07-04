@@ -4,7 +4,7 @@
     <summary><b>About Me</b></summary>
     <br>
     <a href="https://app.daily.dev/alanlengkoan">
-        <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="350" alt="Alan Lengkoan's Dev Card"/>
+        <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="300" alt="Alan Lengkoan's Dev Card"/>
     </a>
     <ul>
         <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a
