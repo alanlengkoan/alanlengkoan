@@ -80,14 +80,14 @@
     <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg"
         alt="Total time coded since Aug 20 2019" />
 
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
-    </p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+</p>
 </details>
 
 <details>
