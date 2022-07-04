@@ -1,6 +1,6 @@
 ## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>. :wave:
 
-<a href="https://app.daily.dev/alanlengkoan"><img src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="400" alt="Alan Lengkoan Dev Card"/></a>
+<a href="https://app.daily.dev/alanlengkoan"><img src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="400" alt="Alan Lengkoan's Dev Card"/></a>
 
 <details>
     <summary><b>About Me</b></summary>
