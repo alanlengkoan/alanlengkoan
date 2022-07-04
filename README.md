@@ -1,106 +1,93 @@
 ## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>. :wave:
 
-<details>
-    <summary><b>About Me</b></summary>
-    <br>
-    <a href="https://app.daily.dev/alanlengkoan">
-        <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="300" alt="Alan Lengkoan's Dev Card"/>
-    </a>
-    <ul>
-        <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a
-                    href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
-        <li>Currently learning <b><a href="https://nodejs.org/">Node js</a></b> and <b><a
-                    href="https://expressjs.com/">Express js</a></b>.</li>
-        <li>Interested in learning <b><a href="https://www.python.org/">Python</a></b> and <b><a
-                    href="https://www.djangoproject.com/">Django</a></b> for Web Development.</li>
-        <li>Interested in learning <b><a href="https://dart.dev/">Dart</a></b> and <b><a
-                    href="https://flutter.dev/">Flutter</a></b> for Mobile App Development.</li>
-        <li>Basket Ball, Anime, Manga, Climbing.</li>
-    </ul>
-</details>
+<b>About Me</b>
+<br>
+<a href="https://app.daily.dev/alanlengkoan">
+    <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="300"
+        alt="Alan Lengkoan's Dev Card" />
+</a>
+<ul>
+    <li>Moslty using <b><a href="https://www.php.net/">PHP</a></b> and <b><a
+                href="https://www.javascript.com/">JavaScript</a></b> in Web Development.</li>
+    <li>Currently learning <b><a href="https://nodejs.org/">Node js</a></b> and <b><a
+                href="https://expressjs.com/">Express js</a></b>.</li>
+    <li>Interested in learning <b><a href="https://www.python.org/">Python</a></b> and <b><a
+                href="https://www.djangoproject.com/">Django</a></b> for Web Development.</li>
+    <li>Interested in learning <b><a href="https://dart.dev/">Dart</a></b> and <b><a
+                href="https://flutter.dev/">Flutter</a></b> for Mobile App Development.</li>
+    <li>Basket Ball, Anime, Manga, Climbing.</li>
+</ul>
 
-<details>
-    <summary><b>Language, Tools and Platforms</b></summary>
-    <br>
-    <p>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"
-            alt="PHP">
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
-            alt="JavaScript">
-        <img src="https://img.shields.io/badge/python-3670A0.svg?&style=for-the-badge&logo=python&logoColor=white"
-            alt="Python">
-        <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"
-            alt="Dart">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML3">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"
-            alt="CSS3">
-        <img src="https://img.shields.io/badge/codeigniter-%23EF4223.svg?&style=for-the-badge&logo=codeigniter&logoColor=white"
-            alt="CodeIgniter">
-        <img src="https://img.shields.io/badge/symfony-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"
-            alt="Symfony">
-        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"
-            alt="Laravel">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"
-            alt="Django">
-        <img src="https://img.shields.io/badge/express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"
-            alt="Express">
-        <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"
-            alt="Flutter">
-        <img src="https://img.shields.io/badge/composer-A52A2A.svg?&style=for-the-badge&logo=composer&logoColor=white"
-            alt="Composer">
-        <img src="https://img.shields.io/badge/npm-%23000000.svg?&style=for-the-badge&logo=npm&logoColor=white"
-            alt="NPM">
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-            alt="Netlify">
-        <img src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"
-            alt="Heroku">
-        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
-            alt="Heroku">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
-            alt="Git">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
-            alt="Github">
-        <img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"
-            alt="Gitlab">
-        <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"
-            alt="BitBucket">
-        <img src="https://img.shields.io/badge/atom-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=white"
-            alt="Atom">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-            alt="VisualStudioCode">
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="Mysql">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit"
-            alt="MariaDB">
-        <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
-            alt="JQuery">
-        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-            alt="JQuery">
-    </p>
-</details>
+<b>Language, Tools and Platforms</b>
+<br>
+<p>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
+        alt="JavaScript">
+    <img src="https://img.shields.io/badge/python-3670A0.svg?&style=for-the-badge&logo=python&logoColor=white"
+        alt="Python">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"
+        alt="Dart">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML3">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3">
+    <img src="https://img.shields.io/badge/codeigniter-%23EF4223.svg?&style=for-the-badge&logo=codeigniter&logoColor=white"
+        alt="CodeIgniter">
+    <img src="https://img.shields.io/badge/symfony-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"
+        alt="Symfony">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"
+        alt="Laravel">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"
+        alt="Django">
+    <img src="https://img.shields.io/badge/express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"
+        alt="Express">
+    <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"
+        alt="Flutter">
+    <img src="https://img.shields.io/badge/composer-A52A2A.svg?&style=for-the-badge&logo=composer&logoColor=white"
+        alt="Composer">
+    <img src="https://img.shields.io/badge/npm-%23000000.svg?&style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+        alt="Netlify">
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"
+        alt="Heroku">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
+        alt="Heroku">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
+        alt="Github">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"
+        alt="Gitlab">
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"
+        alt="BitBucket">
+    <img src="https://img.shields.io/badge/atom-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=white"
+        alt="Atom">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+        alt="VisualStudioCode">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=whit"
+        alt="MariaDB">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+        alt="JQuery">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="JQuery">
+</p>
 
 <details>
     <summary><b>Statistic</b></summary>
     <br>
     <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
-    <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
+    <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg"
+        alt="Total time coded since Aug 20 2019" />
 
-<!--START_SECTION:waka-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 
-```text
-From: 26 June 2022 - To: 03 July 2022
-
-PHP              14 hrs 56 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.61 %
-Other            7 hrs 5 mins    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.56 %
-```
-
-<!--END_SECTION:waka-->
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
-</p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+    </p>
 </details>
 
 <details>
