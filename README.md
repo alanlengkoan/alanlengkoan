@@ -3,7 +3,7 @@
 <b>About Me</b>
 <br>
 <a href="https://app.daily.dev/alanlengkoan">
-    <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="300"
+    <img align="right" src="https://github.com/alanlengkoan/alanlengkoan/blob/master/devcard.svg" width="290"
         alt="Alan Lengkoan's Dev Card" />
 </a>
 <ul>
