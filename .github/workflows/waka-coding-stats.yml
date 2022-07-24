@@ -17,5 +17,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: Updated the Readme
           SHOW_TITLE: true
-          SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
