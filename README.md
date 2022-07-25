@@ -83,7 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 July 2022 - To: 25 July 2022
+
+Blade Template     9 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.35 %
+PHP                5 hrs 44 mins   ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.54 %
+Other              3 hrs 31 mins   ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.43 %
 ```
 
 <!--END_SECTION:waka-->
