@@ -83,10 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-HTML         1 hr 24 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.15 %
-Other        1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.33 %
+Vue.js       52 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.54 %
+Other        18 mins         ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.74 %
 ```
 
 <!--END_SECTION:waka-->
