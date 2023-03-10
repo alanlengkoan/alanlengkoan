@@ -97,19 +97,3 @@ Other            1 hr 39 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
 </p>
 </details>
-
-<details>
-    <summary><b>Support Me</b></summary>
-    <br>
-    <p>
-        Lastly, don't forget to support and treat me with a coffee cup, if you find what you are looking for in my
-        repo so I can be excited to share a code that can help you. <strong>Thank you very
-            much!&nbsp;</strong>&#128522;&nbsp;&#128522;
-    </p>
-    <a href="https://saweria.co/alanlengkoan">
-        <img src="./img/saweria.png" width="150" />
-    </a>
-    <a href="https://trakteer.id/alanlengkoan">
-        <img src="./img/trakteer.png" width="120" />
-    </a>
-</details>
