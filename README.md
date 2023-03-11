@@ -73,27 +73,15 @@
         alt="JQuery">
 </p>
 
-<details>
-    <summary><b>Statistic</b></summary>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
-    <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg"
-        alt="Total time coded since Aug 20 2019" />
+<b>Statistic</b>
+<br>
+<img src="https://komarev.com/ghpvc/?username=alanlengkoan&color=blue" />
+<img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```text
-From: 02 March 2023 - To: 09 March 2023
-
-PHP              7 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   70.93 %
-Other            1 hr 39 mins    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.44 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=alanlengkoan&show_icons=true&theme=dark" />
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlengkoan&layout=compact&theme=dark" />
 </p>
-</details>
