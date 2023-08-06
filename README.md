@@ -1,4 +1,4 @@
-## Hello world, I'm <a href="https://alanlengkoan.com">Alan</a>. :wave:
+<img src="hello.svg" alt="Hello World" />
 
 <b>About Me</b>
 <br>
@@ -7,6 +7,9 @@
         alt="Alan Lengkoan's Dev Card" />
 </a>
 <ul>
+    <li>
+        👋 Hi, I'm Alan Saputra Lengkoan.
+    </li>
     <li>
         🏢 I'm a Web Developer from Makassar.
     </li>
@@ -65,17 +68,6 @@
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 28 July 2023 - To: 04 August 2023
-
-PHP              13 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.65 %
-Blade Template   4 hrs 21 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.24 %
-Other            4 hrs 19 mins   ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.12 %
-Bash             2 hrs 21 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.83 %
-JavaScript       1 hr 39 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.19 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
