@@ -70,10 +70,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Other   1 hr 45 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.94 %
-Bash    0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
+Other   11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.46 %
+Bash    0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.54 %
 ```
 
 <!--END_SECTION:waka-->
