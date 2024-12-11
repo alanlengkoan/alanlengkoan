@@ -64,6 +64,17 @@
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 03 December 2024 - To: 10 December 2024
+
+JavaScript       2 hrs 51 mins   ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.03 %
+PHP              1 hr 45 mins    ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.88 %
+Other            1 hr 37 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.54 %
+EJS              1 hr 23 mins    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.18 %
+Blade Template   48 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <p>
