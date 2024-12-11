@@ -14,16 +14,10 @@
         🏢 I'm a Web Developer from Makassar.
     </li>
     <li>
-        🚀 I use daily: <b><a href="https://laravel.com/">Laravel</a></b>,  <b><a href="https://symfony.com/">Symfony</a></b>,  <b><a href="https://vuejs.org/">Vue js</a></b>,  <b><a href="https://expressjs.com/">Express js</a></b>,  <b><a href="https://tailwindcss.com/">Tailwind css</a></b>,  <b><a href="https://www.docker.com/">Docker</a></b>,  <b><a href="https://www.mysql.com/">MySQL</a></b>,  <b><a href="https://firebase.google.com/">Firebase</a></b>.
+        ⚡️ I'm interested in Basketball, Anime, Walk and Climbing.
     </li>
     <li>
-        💻 I work using: <b><a href="https://www.php.net/">PHP</a></b>, <b><a href="https://www.javascript.com/">JavaScript</a></b>, <b><a href="https://codeigniter.com/">CodeIgniter</a></b>, <b><a href="https://getbootstrap.com/">Bootstrap</a></b>, <b><a href="https://mariadb.org/">MariaDB</a></b>.
-    </li>
-    <li>
-        📚 Interested in learning <b><a href="https://nestjs.com/">Nest js</a></b> and <b><a href="https://nuxt.com/">Nuxt js</a></b> for Web Development.
-    </li>
-    <li>
-        ⚡️ Fun fact: I'm play basketball as a point guard position, watching anime, read manga and mountain climbing.
+        💻 I use daily <b><a href="https://laravel.com/">Laravel</a></b>, <b><a href="https://symfony.com/">Symfony</a></b>, <b><a href="https://codeigniter.com/">CodeIgniter</a></b>, <b><a href="https://vuejs.org/">Vue js</a></b>, <b><a href="https://expressjs.com/">Express js</a></b>, <b><a href="https://tailwindcss.com/">Tailwind</a></b>, <b><a href="https://www.docker.com/">Docker</a></b>, <b><a href="https://www.php.net/">PHP</a></b>, <b><a href="https://www.javascript.com/">JavaScript</a></b>, <b><a href="https://getbootstrap.com/">Bootstrap</a></b>, <b><a href="https://firebase.google.com/">Firebase</a></b>, <b><a href="https://www.mysql.com/">MySQL</a></b>, <b><a href="https://mariadb.org/">MariaDB</a></b>, <b><a href="https://dart.dev/">Dart</a></b>, <b><a href="https://flutter.dev/">Flutter</a></b>.
     </li>
 </ul>
 
@@ -55,11 +49,13 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
     <img src="https://img.shields.io/badge/atom-%2366595C.svg?&style=for-the-badge&logo=atom&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
 </p>
 
 <b>Statistic</b>
@@ -68,17 +64,6 @@
 <img src="https://wakatime.com/badge/user/638af379-202d-4593-9c1b-71e44d84f43d.svg" alt="Total time coded since Aug 20 2019" />
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 02 December 2024 - To: 09 December 2024
-
-JavaScript   2 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.02 %
-EJS          1 hr 23 mins    ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.69 %
-Other        55 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.83 %
-Bash         29 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.18 %
-PHP          21 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.40 %
-```
-
 <!--END_SECTION:waka-->
 
 <p>
